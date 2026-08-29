@@ -1,4 +1,4 @@
-# 📊 InsightOS: Enterprise Data & AI Pipeline
+# InsightOS: Enterprise Data & AI Pipeline
 
 An end-to-end data analytics and artificial intelligence pipeline built to process raw retail transactions, monitor system health, and generate automated business intelligence.
 
