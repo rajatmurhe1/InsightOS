@@ -13,9 +13,10 @@ This project tackles the complex challenge of big data observability by connecti
 
 > *Time-series revenue tracking, statistical anomaly detection, and RFM (Recency, Frequency, Monetary) customer segmentation.*
 
+**🔗 [Click Here to View the Interactive Tableau Public Dashboard](https://public.tableau.com/app/profile/rajat.murhe/viz/InsightOSExecutiveDashboard/Dashboard1)**
+
 [![InsightOS Dashboard](data/dashboard/visual.png)](https://public.tableau.com/app/profile/rajat.murhe/viz/InsightOSExecutiveDashboard/Dashboard1)
 
-**🔗 [Click Here to View the Interactive Tableau Public Dashboard](https://public.tableau.com/app/profile/rajat.murhe/viz/InsightOSExecutiveDashboard/Dashboard1)**
 
 ---
 
